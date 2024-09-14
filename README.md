@@ -1,1 +1,61 @@
-# website-sapa
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maafin aku yaa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #ff6f61, #ffcccb);
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            display: inline-block;
+            padding: 30px;
+            max-width: 600px;
+            margin: 100px auto;
+        }
+        h1 {
+            color: #e74c3c;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.5;
+            text-align: justify;
+        }
+        .highlight {
+            color: #f39c12;
+            font-weight: bold;
+        }
+        .link {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #e74c3c;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dibaca ya cintaaa</h1>
+        <p>
+            Sayang, maaf banget ya soal kemarin. Aku beneran gak bermaksud buat ngecewain kamu, aku juga pengen banget ketemu, tapi aku capek banget abis pulang kuliah malem, besoknya aku langsung sakit meriang. Aku tau kamu kecewa dan aku beneran nyesel udah gak nepatin janji. Tolong jangan ambil keputusan cepet-cepet soal kita ya sayangkuu, aku sayang banget sama kamu dan gamau kita selesai cuma karna ini. Aku janji bakal tebus kesalahan aku, kasih aku kesempatan buat benerin semuanya. Aku harap kamu bisa maafin aku. love youu sayanggg
+        </p>
+        <a href="https://photos.app.goo.gl/fvVi54cTBWgBTvej8" class="link">Kenangan kita ♡♡♡</a>
+    </div>
+</body>
+</html>
